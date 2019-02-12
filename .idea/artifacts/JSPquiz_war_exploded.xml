@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JSPquiz:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JSPquiz_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JSPquiz/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JSPquiz" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

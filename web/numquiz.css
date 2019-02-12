@@ -1,0 +1,19 @@
+
+body{
+    background-image: url("index.jpg");
+}
+
+form{
+    
+    border:3px solid brown;
+    background-image: url("index.jpg")
+    
+  
+}
+div{
+    
+    width:400px;
+}
+body{
+    background-image: url("index.png")
+}
